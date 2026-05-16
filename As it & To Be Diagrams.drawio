@@ -1,0 +1,297 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="S8xlFHL_UP1S7lt_26hD">
+    <mxGraphModel dx="2289" dy="3676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#664751,#E6E6E6)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;align=center;" value="&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 212, 199), rgb(9, 3, 1)); font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Customer Sends Payment&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="240" y="-2080" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-9" edge="1" parent="1" style="endArrow=classic;rounded=1;fontColor=none;labelBorderColor=light-dark(default, #050000);textShadow=0;noLabel=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="419.5" y="-2040" as="sourcePoint" />
+            <mxPoint x="420" y="-2011" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(2, 2, 2)); font-size: 15px;&quot;&gt;Bank Receives Payment&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="240" y="-2008" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="419.5" y="-1968" as="sourcePoint" />
+            <mxPoint x="420" y="-1939" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Finance Team Downloads Bank Statement — MANUAL&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="240" y="-1936" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="419.5" y="-1896" as="sourcePoint" />
+            <mxPoint x="420" y="-1867" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Analyst Opens SAP — T-code: F-28&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="240" y="-1866" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="419.5" y="-1826" as="sourcePoint" />
+            <mxPoint x="420" y="-1797" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-17" edge="1" parent="1" source="A3DeiUAflKIdVLMNQIYm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#CC0000);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633.016405449539" y="-1772.9180327868853" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Manually Searches for Matching Invoice&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="240" y="-1793" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="419.5" y="-1751" as="sourcePoint" />
+            <mxPoint x="420" y="-1722" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FF99CC;fillColor=#FF99CC;rounded=1;textDirection=ltr;gradientColor=default;gradientDirection=south;" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;Match Found?&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="242" x="299" y="-1720" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);entryX=0.018;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" target="A3DeiUAflKIdVLMNQIYm-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="-1680" as="sourcePoint" />
+            <mxPoint x="299" y="-1680.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="-1680" as="sourcePoint" />
+            <mxPoint x="230" y="-1629" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="613" y="-1681" as="sourcePoint" />
+            <mxPoint x="613" y="-1628" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(2, 2, 2));&quot;&gt;Post Payment&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="101" y="-1625" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-46" edge="1" parent="1" source="A3DeiUAflKIdVLMNQIYm-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="A3DeiUAflKIdVLMNQIYm-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-19" edge="1" parent="1" source="A3DeiUAflKIdVLMNQIYm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=light-dark(#000000,#FF3333);strokeColor=light-dark(#000000,#FF3333);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="782.9999778053975" y="-1605.818181818182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;Move to Suspense Account&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="484" y="-1625" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-47" edge="1" parent="1" source="A3DeiUAflKIdVLMNQIYm-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" target="A3DeiUAflKIdVLMNQIYm-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;Update Customer Ledger&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="101" y="-1552" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-35" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="-1584" as="sourcePoint" />
+            <mxPoint x="230.5" y="-1555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="229.71" y="-1512" as="sourcePoint" />
+            <mxPoint x="230.21" y="-1483" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;MIS Report Updated&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="101" y="-1481" as="geometry" />
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-21" edge="1" parent="1" source="A3DeiUAflKIdVLMNQIYm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=light-dark(#000000,#FF3333);strokeColor=light-dark(#000000,#FF0000);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="784.000053074049" y="-1532.0434782608695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;Manual Suspense Clearance Team&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="484" y="-1552" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-40" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="612" y="-1585" as="sourcePoint" />
+            <mxPoint x="612.5" y="-1556" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;Escalate to Customer for Remittance&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="484" y="-1481" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-42" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="612.41" y="-1512" as="sourcePoint" />
+            <mxPoint x="612.91" y="-1483" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;" value="&lt;h1 style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;As-Is Process Flow&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="720" x="80" y="-2172" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Yes&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="-1670" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="-1673" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-54" edge="1" parent="1" source="A3DeiUAflKIdVLMNQIYm-22" style="endArrow=none;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);exitX=0.982;exitY=0.496;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="538" y="-1680.43" as="sourcePoint" />
+            <mxPoint x="613" y="-1681" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;align=center;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Customer sems payment + Remittance &lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="1348" y="-2079" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-56" edge="1" parent="1" style="endArrow=classic;rounded=1;fontColor=none;labelBorderColor=light-dark(default, #050000);textShadow=0;noLabel=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1527.5" y="-2039" as="sourcePoint" />
+            <mxPoint x="1528" y="-2010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;" value="&lt;div style=&quot;text-align: start; overflow-wrap: break-word;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap-mode: wrap;&quot;&gt;Bank Receives Payment&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="1348" y="-2007" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-58" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1527.5" y="-1967" as="sourcePoint" />
+            <mxPoint x="1528" y="-1938" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;" value="&lt;div style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;div style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(0, 0, 0));&quot;&gt;AI Agent (Claude) Reads Remittance PDF&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="1348" y="-1935" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-60" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1527.5" y="-1895" as="sourcePoint" />
+            <mxPoint x="1528" y="-1866" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);align=center;fontFamily=Times New Roman;" value="&lt;div style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;div style=&quot;color: rgb(255, 255, 255); overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;div style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;AI Extracts: Customer Name, Invoice #, Amount, Currency, Reference&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="1348" y="-1865" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-62" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1527.5" y="-1825" as="sourcePoint" />
+            <mxPoint x="1528" y="-1796" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;color: rgb(255, 255, 255); overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;AI Matches to SAP Invoice Database&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="360" x="1348" y="-1792" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-64" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1527.5" y="-1750" as="sourcePoint" />
+            <mxPoint x="1528" y="-1721" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-65" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#FF99CC;fillColor=#FF99CC;rounded=1;textDirection=ltr;gradientColor=default;gradientDirection=south;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;Confidence &amp;gt; 95%?&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="80" width="242" x="1407" y="-1719" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-66" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);entryX=0.018;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" target="A3DeiUAflKIdVLMNQIYm-65" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1338" y="-1679" as="sourcePoint" />
+            <mxPoint x="1407" y="-1679.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-67" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1338" y="-1679" as="sourcePoint" />
+            <mxPoint x="1338" y="-1628" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-68" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1721" y="-1680" as="sourcePoint" />
+            <mxPoint x="1721" y="-1627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#020202);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;Auto-Post to SAP&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="1209" y="-1624" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;color: rgb(255, 255, 255); overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;Flag for Human Review&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="1592" y="-1624" as="geometry" />
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-24" edge="1" parent="1" source="A3DeiUAflKIdVLMNQIYm-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=light-dark(#000000,#33FF33);strokeColor=light-dark(#000000,#00CC00);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1338" y="-1476" />
+            </Array>
+            <mxPoint x="1770" y="-1476" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;color: rgb(255, 255, 255); overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;Dashboard Updates in Real Time&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="1209" y="-1551" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-74" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1338" y="-1583" as="sourcePoint" />
+            <mxPoint x="1338.5" y="-1554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FF99CC;fontColor=light-dark(#000000,#000000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;color: rgb(255, 255, 255); overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;Analyst Reviews Only Exceptions — 20%&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="40" width="258" x="1592" y="-1551" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-78" edge="1" parent="1" style="endArrow=classic;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1720" y="-1584" as="sourcePoint" />
+            <mxPoint x="1720.5" y="-1555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontColor=light-dark(#000000,#000000);fontFamily=Times New Roman;fontStyle=1" value="&lt;h1 style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;/h1&gt;&lt;h1 style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;To-Be Process Flow (AI-Assisted Future State)&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="720" x="1188" y="-2171" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Yes&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1288" y="-1669" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;No&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1708" y="-1672" as="geometry" />
+        </mxCell>
+        <mxCell id="A3DeiUAflKIdVLMNQIYm-84" edge="1" parent="1" source="A3DeiUAflKIdVLMNQIYm-65" style="endArrow=none;html=1;rounded=1;strokeColor=light-dark(#000000,#000000);exitX=0.982;exitY=0.496;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1646" y="-1679.43" as="sourcePoint" />
+            <mxPoint x="1721" y="-1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#00CC00);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1708" y="-1915.2" as="sourcePoint" />
+            <mxPoint x="1772" y="-1915.2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-2" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#00CC66);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;Processes in 3 seconds vs 8 minutes — 99% faster&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="343" x="1768" y="-1930" as="geometry" />
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#00CC00);" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1708" y="-1845.59" as="sourcePoint" />
+            <mxPoint x="1772" y="-1845.59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-4" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#00CC66);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;80% of payments handled automatically&lt;/pre&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="278" x="1764" y="-1860" as="geometry" />
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-18" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Avg 8 minutes per transaction × 150 transactions/day = 20 hours daily&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="387" x="610" y="-1788" as="geometry" />
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;3,000+ items in suspense monthly — trapped cash&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="348" x="770" y="-1619" as="geometry" />
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF0000);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;$20M+ USD recovered annually — all manual effort&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="331" x="780" y="-1546" as="geometry" />
+        </mxCell>
+        <mxCell id="iMI4EFQcLaTMsU2ah_dt-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#00CC66);" value="&lt;pre style=&quot;text-align: start; overflow-wrap: break-word; white-space: pre-wrap;&quot;&gt;DSO visible in real time — no weekly reports&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="335" x="1760" y="-1493" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
